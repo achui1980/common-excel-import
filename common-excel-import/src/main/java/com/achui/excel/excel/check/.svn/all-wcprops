@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/unicrm/!svn/ver/748/trunk/code/src/com/sail/cot/common/excel/check
+END
+DefaultExcelCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/unicrm/!svn/ver/748/trunk/code/src/com/sail/cot/common/excel/check/DefaultExcelCheck.java
+END
+IExcelCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/unicrm/!svn/ver/748/trunk/code/src/com/sail/cot/common/excel/check/IExcelCheck.java
+END
+MyDataCheck.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/unicrm/!svn/ver/748/trunk/code/src/com/sail/cot/common/excel/check/MyDataCheck.java
+END
